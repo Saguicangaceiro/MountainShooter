@@ -1,9 +1,11 @@
 #aqui é o arquivo onde caso seja necessario fazer alguma modificação no projeto, seja tamanho da imagem, de alguma coisa damos prioridade por aqui
 from pygame.examples.grid import WINDOW_WIDTH, WINDOW_HEIGHT
-#c
+
+#CORES EM RGB
 
 COLOR_BLACK = (0, 0, 0, 0)
-C_WHITE = (255, 255, 255, 255)
+COLOR_WHITE = (255, 255, 255, 255)
+COLOR_YELLOW = (255, 255, 0)
 
 #M
 MENU_OPTION = ('NEW GAME 1P',
