@@ -2,7 +2,7 @@
 from pygame.examples.grid import WINDOW_WIDTH, WINDOW_HEIGHT
 #c
 
-COLOR_ORANGE = (255, 128, 0)
+COLOR_BLACK = (0, 0, 0, 0)
 C_WHITE = (255, 255, 255, 255)
 
 #M
